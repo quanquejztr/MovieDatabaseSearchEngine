@@ -16,11 +16,15 @@ This project is developed for the Database Design class, showcasing the practica
 
 ## Features
 
-- **User Authentication:** Register and login to access the system.
-- **Movie Management:** Search for movies, add new movies, and update existing movie details.
-- **Review System:** Add and view movie reviews.
-- **Top-Rated Movies:** View a list of top-rated movies based on user reviews.
-- **Profile Management:** View and update your profile details.
+-	**High-quality user authentication.**
+-	**Search across our 100+ movies.**
+-	**Users are able to add their own movie.**
+-	**Incorrect information is modifiable by users.**
+-	**After watching a movie, user can leave a review for that film.**
+-	**View top 10 highest movies by rating.**
+-	**View all available movies in our database.**
+-	**Personal information is strictly protected, and users can change their password at any time.**
+
 
 ## Installation
 
