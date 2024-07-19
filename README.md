@@ -61,7 +61,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or feedback, feel free to reach out to:
-
-- **Cuong Luong**: cuong@usf.edu
+For any questions or feedback, feel free to email me at: **cuong@usf.edu**
 
